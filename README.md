@@ -1,3 +1,4 @@
+Terraform Script for create 2 aws instances with attach s3 bucket and rds database with load balancing
 Step 1: Clone the given repository.
 Step 2: Configure your aws credentials using aws configure.
 Step 3: run terraform init command in 01_aws_backend
